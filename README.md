@@ -31,6 +31,8 @@ Full-Stack Developer specializing in scalable web applications with modern techn
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br/>
+<br/>
+<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodeArmour&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
