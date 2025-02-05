@@ -66,4 +66,3 @@ Full-Stack Developer specializing in scalable web applications with modern techn
 
 </div>
 
-[![Open in Snack](https://img.shields.io/badge/Open%20in-Snack-blue?style=for-the-badge&logo=expo)](https://snack.expo.dev/@your-snack)
