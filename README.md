@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code+Armour" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+
 # 💫 About Me:
 Full-Stack Developer specializing in scalable web applications with modern technologies like Next.js ⚡, React.js ⚛️, PostgreSQL 🐘, MongoDB 🍃, NestJS 🔴, Spring Boot 🌱, and Prisma 🔷. Passionate about integrating AI 🤖 solutions to build efficient systems. Experienced in working with Yii2, PHP, MySQL, and collaborating on real-world projects with professional teams. Always eager to learn, grow, and tackle new challenges. Let's build something amazing! 🚀
 
