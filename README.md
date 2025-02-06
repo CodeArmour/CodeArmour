@@ -7,11 +7,22 @@
 # 💫 About Me:
 Full-Stack Developer specializing in scalable web applications with modern technologies like Next.js ⚡, React.js ⚛️, PostgreSQL 🐘, MongoDB 🍃, NestJS 🔴, Spring Boot 🌱, and Prisma 🔷. Passionate about integrating AI 🤖 solutions to build efficient systems. Experienced in working with Yii2, PHP, MySQL, and collaborating on real-world projects with professional teams. Always eager to learn, grow, and tackle new challenges. Let's build something amazing! 🚀
 
+<!--- snake -->
+<div align="center">
+    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Omar_Maysara) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_maysara02) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abusahmoud-2622b0330/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/omar_maysara2)
+
+<br/>
+<br/>
+
+
 
 # 💻 Tech Stack:
 <div align="center">
@@ -48,6 +59,8 @@ Full-Stack Developer specializing in scalable web applications with modern techn
 
 
 </div>
+<br/>
+<br/>
 
 
 # 📊 GitHub Stats:
@@ -56,6 +69,9 @@ Full-Stack Developer specializing in scalable web applications with modern techn
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeArmour&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
