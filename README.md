@@ -65,3 +65,6 @@ Full-Stack Developer specializing in scalable web applications with modern techn
 [![](https://visitcount.itsvg.in/api?id=CodeArmour&icon=2&color=2)](https://visitcount.itsvg.in)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
